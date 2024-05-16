@@ -1,2 +1,2 @@
-# calculate_potential_energy
+# some easy c++ code
 this code writen by c++ 
